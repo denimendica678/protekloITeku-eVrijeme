@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\bin\Debug\protekloITekućeVrijeme.exe.config
+C:\Users\denim\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\bin\Debug\protekloITekućeVrijeme.exe
+C:\Users\denim\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\bin\Debug\protekloITekućeVrijeme.pdb
+C:\Users\denim\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.Form1.resources
+C:\Users\denim\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.Properties.Resources.resources
+C:\Users\denim\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.exe
+C:\Users\denim\source\repos\protekloITekućeVrijeme\protekloITekućeVrijeme\obj\Debug\protekloITekućeVrijeme.pdb
